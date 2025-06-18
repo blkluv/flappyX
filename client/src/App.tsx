@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import { FlappyBird } from "./components/FlappyBird";
 import { GameMenu } from "./components/GameMenu";
 import { PaymentStatus } from "./components/PaymentStatus";
