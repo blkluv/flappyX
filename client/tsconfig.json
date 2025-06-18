@@ -10,3 +10,9 @@
     "noUnusedLocals": false
   }
 }
+{
+  "compilerOptions": {
+    "noUnusedLocals": false,
+    "noUnusedParameters": false
+  }
+}
