@@ -1,4 +1,4 @@
-import React, { createContext, useContext, useState, useCallback, useEffect } from 'react';
+import { createContext, useContext, useState, useCallback, useEffect } from 'react';
 import { createWalletClient, custom, type WalletClient, type Chain } from 'viem';
 import { baseSepolia } from 'viem/chains';
 import type { Hex } from 'viem';
