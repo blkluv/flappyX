@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 
 export function Confetti() {
   const [particles, setParticles] = useState<Array<{ id: number; color: string; left: number; delay: number }>>([]);
